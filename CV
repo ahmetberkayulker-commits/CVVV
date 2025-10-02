@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <h1>Ahmet Berkay Ülker</h1><hr>
+    <P>KTO Karatay Üniversitesi Kratay/Konya<br>Tel: 507 894 23 05<br>E-posta: ahmetberkayulker@icloud.com</P><hr>
+    <h3>Eğitim</h3>
+<ul>
+    <li>2025-Devam:KTO Karatay Üniversitesi Bigisayar Programcılığı</li>
+    <li>2019-Devam:Esentepe Koleji Anadolu Lisesi</li>
+</ul><hr>
+<h3>İş Deneyimi</h3>
+<p>İş Deneyimi Bayan Koförü</p><hr>
+<h3>Beceriler</h3>
+<ul>
+    <li>Yabancı Dil: İngilizce (anlama ve konuşma var)</li>
+    <li>Bilgisayar Bilgiler: Microsoft Windows Sürümleri-Orta Seviyede</li>
+</ul><hr>
+<h3>Kişisel Bilgiler</h3>
+<p>Doğum Tarihi: 14.11.2005<br>Doğum Yeri: Konya<br>Medeni Durumu: Bekar<br>Ehliyet: B</p>
+    
+</body>
+</html>
